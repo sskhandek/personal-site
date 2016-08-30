@@ -4,6 +4,9 @@
   "authors": [
     "sskhandek <sskhandek@gmail.com>"
   ],
+  "scripts": {
+    "start": "gulp"
+  },
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
